@@ -1,5 +1,6 @@
 #This is the path where the labels.csv file is located and where the final labels will be saved
-path = "\PATH\TO\labels.csv"
+#Can be left blank if the script is run the same directory as labels.csv
+path = ""
 
 import cv2
 import numpy as np
