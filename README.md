@@ -79,4 +79,4 @@ The default settings are optimized for OL1735WR labels from onlinelabels.com (48
 
 ## License
 
-This is open source software. See LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
