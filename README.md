@@ -8,14 +8,16 @@ A flexible tool for creating printable QR code labels for growth containers used
 - Configurable label dimensions and layout
 - Customizable QR code size and properties
 - Supports different label formats
+- Automatically finds and uses system fonts for better label visibility
 
 ## Requirements
 
 ```
-numpy
-qrcode
-Pillow
-opencv-python
+opencv-python>=4.5.0
+numpy>=1.19.0
+qrcode>=7.3.0
+Pillow>=8.0.0
+imageio>=2.9.0
 ```
 
 Install dependencies with:
